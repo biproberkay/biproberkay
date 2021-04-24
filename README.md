@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center" style="color:#1852E4">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<!--
-**biproberkay/biproberkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">My name is Şükrü Berkay and I'm a CEIT student at Yıldız Tecnical University. I want to be a fullstack web developer and working on it. If you can want to contact with me; feel free to email me anytime you want. I'd be happy to meet new developers and expand my network.</p>
+<hr>
+<p align="center">
+  <b>Let's contact with me!</b>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="https://twitter.com/" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in//" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:biproberkay@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://biproberkay.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">:computer: Technologies :computer:</h2>
+
+<p align="center">
+  <img src="http://resources.spacexchimp.com/images/logos/HTML5.png" width="60" height="60">
+  <img src="http://resources.spacexchimp.com/images/logos/CSS3.png" width="60" height="60">
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="95" height="60">
+  <img src="https://ensocore.com/media/61/reactjs-logo-sticker%20%281%29.jpg" width="60" height="60">
+    <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" width="60" height="60">
+  <img src="https://www.onurbabur.com/wp-content/uploads/2017/11/ms-sql-server-logo-square.jpg" width="60" height="60">
+  <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/postgresql/img/postgresql-stack-220x234.png" width="60" height="60">
+</p>
+
+<hr>
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=biproberkay&show_icons=true">
+</p>
