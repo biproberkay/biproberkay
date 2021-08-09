@@ -1,3 +1,5 @@
+![](\assets\img\Simple Technology LinkedIn Banner.png)
+
 <h1 align="center" style="color:#1852E4">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">My name is Şükrü Berkay and I'm a CEIT student at Yıldız Tecnical University. I want to be a fullstack web developer and working on it. If you can want to contact with me; feel free to email me anytime you want. I'd be happy to meet new developers and expand my network.</p>
@@ -28,6 +30,5 @@
 <hr>
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=biproberkay&show_icons=true">
 </p>
