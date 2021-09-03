@@ -1,6 +1,5 @@
 # Hello World 👋
-My name is Hakan Berkay. I am a Computer Programmer. I love computer technology. I love every part of it. I am focusing on developing software. But i am also interested in hardware stuff and electronics about computer. lifelong learner, microsoft follower, a student are the other things desicribes me.
-
+I am Berkay. I am a Computer Programmer. I have a strong passion about computer technology. Hardware, Software and also other User side activity...But i am focusing on developing software. Other words to describes me: lifelong learner, microsoft follower, a student.
 I'm a CEIT student at Yıldız Tecnical University. I want to be a fullstack web developer and working on it. If you can want to contact with me; feel free to email me anytime you want. I'd be happy to meet new developers and expand my network.
 
 **Let's contact with me!**
