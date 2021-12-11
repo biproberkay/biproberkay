@@ -1,4 +1,4 @@
-| <img src="https://avatars.githubusercontent.com/u/58739068?s=120&v=4" alt="github hesabı" style="zoom:33%; border-radius:100px;box-shadow:0px 0px 5px 0px;" /> [Şükrü Berkay]() |      |      |      | Giriş | Kayıt |
+| <img src="https://avatars.githubusercontent.com/u/58739068?s=120&v=4" alt="github hesabı" style="zoom:33%; border-radius:100px;box-shadow:0px 0px 5px 0px;" /> </br>[Şükrü Berkay]() |      |      |      | Giriş | Kayıt |
 | ------------------------------------------------------------ | ---- | ---- | ---- | ----: | ----: |
 
 
