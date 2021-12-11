@@ -1,3 +1,27 @@
+| <img src="https://avatars.githubusercontent.com/u/58739068?s=120&v=4" alt="github hesabı" style="zoom:33%; border-radius:100px;box-shadow:0px 0px 5px 0px;" /> [Şükrü Berkay]() |      |      |      | Giriş | Kayıt |
+| ------------------------------------------------------------ | ---- | ---- | ---- | ----: | ----: |
+
+
+
+| 🪐. Topics                                                    | 📰. Wall of [biproberkay](https://github.com/biproberkay)     | 🪁. Statements                                                |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Computer                                                     | [#7](https://github.com/biproberkay/biproberkay/discussions/7#discussion-3736667) |                                                              |
+| Software                                                     |                                                              |                                                              |
+| Web                                                          |                                                              |                                                              |
+| .Net                                                         |                                                              |                                                              |
+| Auth                                                         |                                                              |                                                              |
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biproberkay&show_icons=true&locale=en&layout=compact" alt="biproberkay" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biproberkay&" alt="biproberkay" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=biproberkay&show_icons=true&locale=en" alt="biproberkay" /> |
+
+<details>    
+	<summary>Top level message (2 replies)</summary>   
+	<details>       				
+		<summary>	2nd level message (1 reply)</summary>       
+        <details open><summary>		3rd level message (0 replies)</summary></details>    
+	</details>   
+	<details open>       <summary>	2nd level message (0 replies)</summary>    </details> 
+</details>
+
+
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
@@ -44,9 +68,8 @@
     <!--<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>-->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biproberkay&show_icons=true&locale=en&layout=compact" alt="biproberkay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biproberkay&show_icons=true&locale=en" alt="biproberkay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biproberkay&" alt="biproberkay" /></p>
+
+
 
