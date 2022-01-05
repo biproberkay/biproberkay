@@ -12,14 +12,41 @@
 | Auth                                                         |                                                              |                                                              |
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biproberkay&show_icons=true&locale=en&layout=compact" alt="biproberkay" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biproberkay&" alt="biproberkay" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=biproberkay&show_icons=true&locale=en" alt="biproberkay" /> |
 
-<details>    
-	<summary>Top level message (2 replies)</summary>   
+<ul>
+<li>
+<details open>    
+	<summary>Sistem Mühendisi</summary>   
+</details>
+</li>
+<li>
+<details open>    
+	<summary>Bilgisayar Programcısı</summary>   
+	<details open>
+        <summary>c# .net teknolojilerinde uzmanlaşma</summary> 
+        <ul>
+            <li>WPF öğrenerek başladım. küçün oyun, saat gibi uygulamalar yaptım</li>
+            <li>
+                Microsoft .net core ile web frameworklerine başladım. mvc ve razor pages konusunda 		uzmanlaştım</li>
+            <li>katmanlı mirari öğrendim. ddd ve clean architecture konularını çalıştım</li>
+            <li>git versiyon kontrolü, agile scrum metodolojilerine dayanan azuredevops|githubprojects|bitbutckent&jira gibi proje yönetim toollarını deneyimledim</li>
+        </ul>
+        <details open><summary></summary></details>    
+	</details>   
+	<details open>       <summary>	2nd level message (0 replies)</summary>    </details> 
+</details>
+</li>
+<li>
+<details open>    
+	<summary>Bilgisayar Öğretmeni</summary>   
 	<details>       				
 		<summary>	2nd level message (1 reply)</summary>       
         <details open><summary>		3rd level message (0 replies)</summary></details>    
 	</details>   
 	<details open>       <summary>	2nd level message (0 replies)</summary>    </details> 
-</details>
+</details> 
+</li>   
+</ul>
+
 
 
 <h1 align="center">Hi 👋, I'm Berkay</h1>
@@ -29,7 +56,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biproberkay" alt="biproberkay" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Web Site](https://github.com/users/biproberkay/projects/13)
+- 🔭 I’m currently working on my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
 
 - 🌱 I’m currently learning **Blazor**
 
