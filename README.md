@@ -3,6 +3,7 @@
 
 
 
+
 | 🪐. Topics                                                    | 📰. Wall of [biproberkay](https://github.com/biproberkay)     | 🪁. Statements                                                |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Computer                                                     | [#7](https://github.com/biproberkay/biproberkay/discussions/7#discussion-3736667) |                                                              |
@@ -19,7 +20,7 @@
 </details>
 </li>
 <li>
-<details open>    
+<details open>
 	<summary>Bilgisayar Programcısı</summary>
     <ul>
         <li>programlama
@@ -41,6 +42,7 @@
         </li>
         <li>network(ağ)</li>
     </ul>   
+
 </details>
 </li>
 <li>
