@@ -1,5 +1,20 @@
-| <img src="https://avatars.githubusercontent.com/u/58739068?s=120&v=4" alt="github hesabı" style="zoom:33%; border-radius:100px;box-shadow:0px 0px 5px 0px;" /> </br>[Şükrü Berkay]() |      |      |      | Giriş | Kayıt |
-| ------------------------------------------------------------ | ---- | ---- | ---- | ----: | ----: |
+<h1 align="center">Hi 👋, I'm Berkay</h1>
+<h3 align="center">A passionate full stack developer from Turkey</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=biproberkay&label=Profile%20views&color=0e75b6&style=flat" alt="biproberkay" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biproberkay" alt="biproberkay" /></a> </p>
+
+---
+
+
+
+- 🔭 I’m currently working on my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
+- 🌱 I’m currently learning **Blazor**
+- 💬 Ask me about **.net core mvc**
+- 📫 How to reach me **biproberkay@gmail.com**
+
+---
 
 
 
@@ -13,48 +28,53 @@
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biproberkay&show_icons=true&locale=en&layout=compact" alt="biproberkay" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biproberkay&" alt="biproberkay" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=biproberkay&show_icons=true&locale=en" alt="biproberkay" /> |
 
 <ul>
-<li>
-<details open>    
-	<summary>Sistem Mühendisi</summary>   
-</details>
-</li>
-<li>
-<details open>    
-	<summary>Bilgisayar Programcısı</summary>   
+	<li>
+		<details open>    
+		    <summary>Sistem Mühendisi</summary>   
+		</details>
+	</li>
+	<li>
 	<details open>
-        <summary>c# .net teknolojilerinde uzmanlaşma</summary> 
-        <ul>
-            <li>WPF öğrenerek başladım. küçün oyun, saat gibi uygulamalar yaptım</li>
-            <li>
-                Microsoft .net core ile web frameworklerine başladım. mvc ve razor pages konusunda 		uzmanlaştım</li>
-            <li>katmanlı mirari öğrendim. ddd ve clean architecture konularını çalıştım</li>
-            <li>git versiyon kontrolü, agile scrum metodolojilerine dayanan azuredevops|githubprojects|bitbutckent&jira gibi proje yönetim toollarını deneyimledim</li>
-        </ul>
-        <details open><summary></summary></details>    
-	</details>   
-	<details open>       <summary>	2nd level message (0 replies)</summary>    </details> 
-</details>
-</li>
-<li>
-<details open>    
-	<summary>Bilgisayar Öğretmeni</summary>   
-	<details>       				
-		<summary>	2nd level message (1 reply)</summary>       
-        <details open><summary>		3rd level message (0 replies)</summary></details>    
-	</details>   
-	<details open>       <summary>	2nd level message (0 replies)</summary>    </details> 
-</details> 
-</li>   
+		<summary>Bilgisayar Programcısı</summary>
+		    <ul>
+			<li>programlama
+			    <ul>
+				<li>
+				    <details>
+					<summary>c# .net teknolojilerinde uzmanlaşma</summary> 
+					<ul>
+					    <li>WPF öğrenerek başladım. küçün oyun, saat gibi uygulamalar yaptım</li>
+					    <li>Microsoft .net core ile web frameworklerine başladım. mvc ve razor pages konusunda 		uzmanlaştım</li>
+					    <li>katmanlı mirari öğrendim. ddd ve clean architecture konularını çalıştım</li>
+					    <li>git versiyon kontrolü, agile scrum metodolojilerine dayanan azuredevops|githubprojects|bitbutckent&jira gibi proje yönetim toollarını deneyimledim</li>
+					</ul>   
+				    </details>
+				</li>
+				<li>php</li>
+				<li>java</li>
+		    </ul>
+		</li>
+		<li>network(ağ)</li>
+	    </ul>   
+	    </details>
+	</li>
+    <li>
+        <details open>    
+            <summary>Bilgisayar Öğretmeni</summary>
+            <ul>
+                <li>
+                    <details>       				
+                        <summary>Bilgisayar</summary>       
+                        <details><summary>Yazılım</summary></details>    
+                    </details> 
+                </li>
+                <li>
+                    <details><summary>Eğitim</summary></details> 
+                </li>
+            </ul>  
+        </details> 
+    </li>   
 </ul>
-
-
-
-<h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biproberkay&label=Profile%20views&color=0e75b6&style=flat" alt="biproberkay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biproberkay" alt="biproberkay" /></a> </p>
 
 - 🔭 I’m currently working on my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
 
