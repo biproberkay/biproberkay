@@ -23,18 +23,22 @@
 	<summary>Bilgisayar Programcısı</summary>
     <ul>
         <li>programlama
-            <details open>
-                <summary>c# .net teknolojilerinde uzmanlaşma</summary> 
-                <ul>
-                    <li>WPF öğrenerek başladım. küçün oyun, saat gibi uygulamalar yaptım</li>
-                    <li>Microsoft .net core ile web frameworklerine başladım. mvc ve razor pages konusunda 		uzmanlaştım</li>
-                    <li>katmanlı mirari öğrendim. ddd ve clean architecture konularını çalıştım</li>
-                    <li>git versiyon kontrolü, agile scrum metodolojilerine dayanan azuredevops|githubprojects|bitbutckent&jira gibi proje yönetim toollarını deneyimledim</li>
-                </ul>   
-            </details>
+            <ul>
+                <li>
+                    <details>
+                        <summary>c# .net teknolojilerinde uzmanlaşma</summary> 
+                        <ul>
+                            <li>WPF öğrenerek başladım. küçün oyun, saat gibi uygulamalar yaptım</li>
+                            <li>Microsoft .net core ile web frameworklerine başladım. mvc ve razor pages konusunda 		uzmanlaştım</li>
+                            <li>katmanlı mirari öğrendim. ddd ve clean architecture konularını çalıştım</li>
+                            <li>git versiyon kontrolü, agile scrum metodolojilerine dayanan azuredevops|githubprojects|bitbutckent&jira gibi proje yönetim toollarını deneyimledim</li>
+                        </ul>   
+                    </details>
+                </li>
+                <li>php</li>
+                <li>java</li>
+            </ul>
         </li>
-        <li>php</li>
-        <li>java</li>
         <li>network(ağ)</li>
     </ul>   
 </details>
@@ -56,6 +60,7 @@
 </details> 
 </li>   
 </ul>
+
 
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
