@@ -14,11 +14,11 @@
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biproberkay&show_icons=true&locale=en&layout=compact" alt="biproberkay" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biproberkay&" alt="biproberkay" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=biproberkay&show_icons=true&locale=en" alt="biproberkay" /> |
 
 <ul>
-<li>
-<details open>    
-	<summary>Sistem Mühendisi</summary>   
-</details>
-</li>
+    <li>
+        <details open>    
+            <summary>Sistem Mühendisi</summary>   
+        </details>
+    </li>
 <li>
 <details open>
 	<summary>Bilgisayar Programcısı</summary>
@@ -42,26 +42,27 @@
         </li>
         <li>network(ağ)</li>
     </ul>   
-
-</details>
+    </details>
 </li>
-<li>
-<details open>    
-	<summary>Bilgisayar Öğretmeni</summary>
-    <ul>
-        <li>
-            <details>       				
-                <summary>Bilgisayar</summary>       
-                <details><summary>Yazılım</summary></details>    
-            </details> 
-        </li>
-        <li>
-			<details><summary>Eğitim</summary></details> 
-        </li>
-    </ul>  
-</details> 
-</li>   
+    <li>
+        <details open>    
+            <summary>Bilgisayar Öğretmeni</summary>
+            <ul>
+                <li>
+                    <details>       				
+                        <summary>Bilgisayar</summary>       
+                        <details><summary>Yazılım</summary></details>    
+                    </details> 
+                </li>
+                <li>
+                    <details><summary>Eğitim</summary></details> 
+                </li>
+            </ul>  
+        </details> 
+    </li>   
 </ul>
+
+
 
 
 <h1 align="center">Hi 👋, I'm Berkay</h1>
