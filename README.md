@@ -1,5 +1,5 @@
-| <img src="https://avatars.githubusercontent.com/u/58739068?s=120&v=4" alt="github hesabı" style="zoom:33%; border-radius:100px;box-shadow:0px 0px 5px 0px;" /> [Şükrü Berkay]() |      |      |      | Giriş | Kayıt |
-| ------------------------------------------------------------ | ---- | ---- | ---- | ----: | ----: |
+| <img src="https://avatars.githubusercontent.com/u/58739068?s=120&v=4" alt="github hesabı" style="zoom:33%; border-radius:100px;box-shadow:0px 0px 5px 0px;" /> [Şükrü Berkay](https://codewithberkay.com) |  -   |  -   |  -   | Giriş | Kayıt |
+| :----------------------------------------------------------- | :--: | :--: | :--: | ----: | ----: |
 
 
 
@@ -20,34 +20,42 @@
 </li>
 <li>
 <details open>    
-	<summary>Bilgisayar Programcısı</summary>   
-	<details open>
-        <summary>c# .net teknolojilerinde uzmanlaşma</summary> 
-        <ul>
-            <li>WPF öğrenerek başladım. küçün oyun, saat gibi uygulamalar yaptım</li>
-            <li>
-                Microsoft .net core ile web frameworklerine başladım. mvc ve razor pages konusunda 		uzmanlaştım</li>
-            <li>katmanlı mirari öğrendim. ddd ve clean architecture konularını çalıştım</li>
-            <li>git versiyon kontrolü, agile scrum metodolojilerine dayanan azuredevops|githubprojects|bitbutckent&jira gibi proje yönetim toollarını deneyimledim</li>
-        </ul>
-        <details open><summary></summary></details>    
-	</details>   
-	<details open>       <summary>	2nd level message (0 replies)</summary>    </details> 
+	<summary>Bilgisayar Programcısı</summary>
+    <ul>
+        <li>programlama
+            <details open>
+                <summary>c# .net teknolojilerinde uzmanlaşma</summary> 
+                <ul>
+                    <li>WPF öğrenerek başladım. küçün oyun, saat gibi uygulamalar yaptım</li>
+                    <li>Microsoft .net core ile web frameworklerine başladım. mvc ve razor pages konusunda 		uzmanlaştım</li>
+                    <li>katmanlı mirari öğrendim. ddd ve clean architecture konularını çalıştım</li>
+                    <li>git versiyon kontrolü, agile scrum metodolojilerine dayanan azuredevops|githubprojects|bitbutckent&jira gibi proje yönetim toollarını deneyimledim</li>
+                </ul>   
+            </details>
+        </li>
+        <li>php</li>
+        <li>java</li>
+        <li>network(ağ)</li>
+    </ul>   
 </details>
 </li>
 <li>
 <details open>    
-	<summary>Bilgisayar Öğretmeni</summary>   
-	<details>       				
-		<summary>	2nd level message (1 reply)</summary>       
-        <details open><summary>		3rd level message (0 replies)</summary></details>    
-	</details>   
-	<details open>       <summary>	2nd level message (0 replies)</summary>    </details> 
+	<summary>Bilgisayar Öğretmeni</summary>
+    <ul>
+        <li>
+            <details>       				
+                <summary>Bilgisayar</summary>       
+                <details><summary>Yazılım</summary></details>    
+            </details> 
+        </li>
+        <li>
+			<details><summary>Eğitim</summary></details> 
+        </li>
+    </ul>  
 </details> 
 </li>   
 </ul>
-
-
 
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
