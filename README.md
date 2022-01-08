@@ -1,7 +1,12 @@
-| <img src="https://avatars.githubusercontent.com/u/58739068?s=120&v=4" alt="github hesabı" style="zoom:33%; border-radius:100px;box-shadow:0px 0px 5px 0px;" /> [Şükrü Berkay](https://codewithberkay.com) |  -   |  -   |  -   | Giriş | Kayıt |
-| :----------------------------------------------------------- | :--: | :--: | :--: | ----: | ----: |
 
+<h3 align="center">Languages and Tools:</h3>
 
+|           |                                                              |                                                              |                                                              |                                                              |                                                              |            |      |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- |
+| Back-End  | ![dotnetcore](README.assets/dotnetcore-original-16416680082722.svg) | ![dotnetcore](README.assets/dotnetcore-original-16416680119594.svg) | ![dotnetcore](README.assets/dotnetcore-original-16416680348146.svg) | ![dotnetcore](README.assets/dotnetcore-original-16416680414798.svg) | ![dotnetcore](README.assets/dotnetcore-original-164166804605510.svg) |            |      |
+| Front-End | ![c#]()                                                      | ![git]()                                                     | ![git]()                                                     | ![jwt]()                                                     | ![blazor]()                                                  | ![other]() |      |
+|           |                                                              |                                                              |                                                              |                                                              |                                                              |            |      |
+|           |                                                              |                                                              |                                                              |                                                              |                                                              |            |      |
 
 
 | 🪐. Topics                                                    | 📰. Wall of [biproberkay](https://github.com/biproberkay)     | 🪁. Statements                                                |
