@@ -1,12 +1,14 @@
-
+<table align="middle" width=100%>
+  <tr>
+    <td align="middle" colspan="3"><h1> 🛠Tools and Technologies🛰 </h1></td>
+  </tr>
+  <tr>
+    <td align="middle"> ![C# .Net](https://huseyinyaman.com/wp-content/uploads/2020/05/x-sharp.png) </td>
+    <td align="middle"></td>
+    <td align="middle"></td>
+  </tr>
+</table>
 <h3 align="center">Languages and Tools:</h3>
-
-|           |                                                              |                                                              |                                                              |                                                              |                                                              |            |      |
-| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- |
-| Back-End  | ![dotnetcore](README.assets/dotnetcore-original-16416680082722.svg) | ![dotnetcore](README.assets/dotnetcore-original-16416680119594.svg) | ![dotnetcore](README.assets/dotnetcore-original-16416680348146.svg) | ![dotnetcore](README.assets/dotnetcore-original-16416680414798.svg) | ![dotnetcore](README.assets/dotnetcore-original-164166804605510.svg) |            |      |
-| Front-End | ![c#]()                                                      | ![git]()                                                     | ![git]()                                                     | ![jwt]()                                                     | ![blazor]()                                                  | ![other]() |      |
-|           |                                                              |                                                              |                                                              |                                                              |                                                              |            |      |
-|           |                                                              |                                                              |                                                              |                                                              |                                                              |            |      |
 
 
 | 🪐. Topics                                                    | 📰. Wall of [biproberkay](https://github.com/biproberkay)     | 🪁. Statements                                                |
