@@ -78,7 +78,7 @@
 
 - 🔭 I’m currently working on my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **Blazor** docker heroku
 
 - 💬 Ask me about **.net core mvc**
 
