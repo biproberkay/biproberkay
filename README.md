@@ -9,22 +9,27 @@
 
 
 
-- 🔭 I’m currently working on my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
-- 🌱 I’m currently learning **Blazor**
-- 💬 Ask me about **.net core mvc**
-- 📫 How to reach me **biproberkay@gmail.com**
+- ## 🔭 I’m currently working on 
+	- my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
+- ## 🌱 I’m currently learning 
+	- **Blazor**
+- ## 💬 Ask me about 
+	- **.net core mvc**
+- ## 📫 How to reach me 
+	<ul>
+		<li>	<a href = "mailto: biproberkay@gmail.com?subject = About Github&body = Hi Berkay! ">📧 Email </a>
+		<li>	<a href="https://linkedin.com/in/şükrü-berkay-0a3532136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şükrü-berkay-0a3532136" height="30" width="40" /></a>
+		<li>	<a href="https://stackoverflow.com/users/12878692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12878692" height="30" width="40" /></a>
+		<li>	<a href="https://instagram.com/biproberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biproberkay" height="30" width="40" /></a>
+		<li>	<a href="https://www.youtube.com/c/biproberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biproberkay" height="30" width="40" /></a>
+	</ul>
 
 ---
 
 
 
-| 🪐. Topics                                                    | 📰. Wall of [biproberkay](https://github.com/biproberkay)     | 🪁. Statements                                                |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Computer                                                     | [#7](https://github.com/biproberkay/biproberkay/discussions/7#discussion-3736667) |                                                              |
-| Software                                                     |                                                              |                                                              |
-| Web                                                          |                                                              |                                                              |
-| .Net                                                         |                                                              |                                                              |
-| Auth                                                         |                                                              |                                                              |
+| 🪐.   | 📰.     | 🪁.   |
+| :---- | ------ | ------ |
 | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biproberkay&show_icons=true&locale=en&layout=compact" alt="biproberkay" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biproberkay&" alt="biproberkay" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=biproberkay&show_icons=true&locale=en" alt="biproberkay" /> |
 
 <ul>
@@ -75,22 +80,6 @@
         </details> 
     </li>   
 </ul>
-
-- 🔭 I’m currently working on my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
-
-- 🌱 I’m currently learning **Blazor** docker heroku
-
-- 💬 Ask me about **.net core mvc**
-
-- 📫 How to reach me **biproberkay@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/şükrü-berkay-0a3532136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şükrü-berkay-0a3532136" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12878692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12878692" height="30" width="40" /></a>
-<a href="https://instagram.com/biproberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biproberkay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/biproberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biproberkay" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
