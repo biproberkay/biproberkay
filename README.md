@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">A passionate .NET developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=biproberkay&label=Profile%20views&color=0e75b6&style=flat" alt="biproberkay" /> </p>
 
@@ -7,7 +7,7 @@
 
 ---
 
-
+I have been developing projects since 2016
 
 - ## 🔭 I’m currently working on 
 	- my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
