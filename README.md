@@ -15,7 +15,7 @@ kendi geliştirdiğim özgün web sitem
 I have been developing projects since 2016
 
 - ## 🔭 I’m currently working on 
-	- my [Personal Web Site](https://github.com/users/biproberkay/projects/13)
+	- React
 - ## 🌱 I’m currently learning 
 	- **Blazor**
 	- **microservices architecture**
