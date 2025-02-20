@@ -5,7 +5,7 @@ kendi geliştirdiğim özgün projem: Bu Proje, blog konseptini agile yazılım 
 [developeragenda.com](https://developeragenda.com)
 
 ## blog.developeragenda.com 
-ghost.com ile yayınladığım blog 
+ghost.com ile yayınladığım blog: [blog.developeragenda.com](https://blog.developeragenda.com)
 
 <h3 align="center">A passionate .NET developer from Turkey</h3>
 
