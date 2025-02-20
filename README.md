@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 
-# developeragenda.com
-kendi geliştirdiğim özgün web sitem
-[developeragenda.com](http://developeragenda.com)
+## developeragenda.com
+kendi geliştirdiğim özgün projem: Bu Proje, blog konseptini agile yazılım geliştirme mantığı ile harmanlayarak "yazılımcı gündemi"ni yönetme amacı taşıyor. Böylelikle yazılımcılar kısa, orta ve uzun vadeli gündemlerini takip edebilecekler. Yeni proje fikirlerini planlayabilecekler. Bilgi birikimlerini loglayıp başkaları ile paylaşabilecekler. öğrenme ve geliştirme esnasında karşılaşılan sorunlar yazılımcının en çok uğraştığı şeyler. Bunları yönetebilecekler. 
+[developeragenda.com](https://developeragenda.com)
+
+## blog.developeragenda.com 
+ghost.com ile yayınladığım blog 
 
 <h3 align="center">A passionate .NET developer from Turkey</h3>
 
