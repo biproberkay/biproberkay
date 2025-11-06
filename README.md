@@ -18,7 +18,7 @@ ghost.com ile yayınladığım blog: [blog.developeragenda.com](https://blog.dev
 I have been developing projects since 2016
 
 - ## 🔭 I’m currently working on 
-	- React
+	- 🚀 Currently building the *Five Projects Journey* — a self-driven developer challenge exploring 5 frameworks in 5 stages. From WordPress to React, a journey to rediscover rhythm, learning, and flow. 
 - ## 🌱 I’m currently learning 
 	- **Blazor**
 	- **microservices architecture**
